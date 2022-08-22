@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pipeline-dataflow",
+  "private_key_id": "1309f9e8ff56c7078287e65165966e133a76b856",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6xPoE4jA0Wa11\n6Sw+0OB6gmDXwnRrBPDcyyGJP21OViEbigWHKkWdqU+VZlp1uOLQqvVyUPohS40Z\nD6zcGA1kvbPQ18Ue9/95Gxsncg8cLjeEZNqjhFbOoJKaoes6lnf07dDdI0xjbaFS\nzdDwdQ2kKs6NS5saevGL3tQacKMeNefmu7C0Ee3uIwG6vBLSMleV87fyB+od4Soa\nZ25J73abz1u855nigSblj7Zaa+kA8cFnYWjpM5BI4HlVK1iJWa9zF8GfFulxVwY1\nN6xNHaHedZbvUjIOsaofkZmijGcvDMLvHSEQYnrgAIfd5i6juWbpRh5+Kf0PK78C\nL41OVWF7AgMBAAECggEAHJMGWA5C/GoRSnjiIWTTneqp5livIbB1KVKVTuo6pEGJ\nJILOqwn3R1J1WpDORjSDKb7+I6nqmtge6OFSZlnyXUyotiBM3Zq+UJ5VCTPqG+Wg\n7iB//YRsbjB4PYWITO5jFpX2iTQH+9j0quEnlkz88/ZDTlrC4B+Z1PcX0Z5qAQpQ\nQJs9oK7anr8w4CGPu1BKkrrlKe/20sBtsYNavU1vozp4kc3XYA8mzPeQo53UoKOX\nc5JoDetajr6ywBC46PnN7x4591Se9ugILV+s5qQbQ4nA7qhlEaKLLaX3OPKPqILu\ndylsHktncFI+2cRx7gJ0tP7ulfZFjZduEwY2Arw4AQKBgQD1ZFtpbdlTNrDcApv5\nMozm1vNXHZgnQQ1w+w0cwZOnKUrwjJXfducOe1iWO3EjJBBZkfmCm4VcDEyJkwug\n5A+10zaqE6T/DK0DIJvwD0R8WULSOAcmxkpu8v5rQhWbh5QyM0TQlN07ZpTBGahb\nITuRYHk1+F0OWY8f8leAUBxwOQKBgQDC196wgHSjoP/pAS/DXxnaEJBhhgH9EvlL\ndLRsNIqYSAvhEjK4KLY+XovibDonZla2w/8pBL4OQngeoeYpGaUrPCoenq5Zwiur\nYpHODgbZ4wcUbuKBoYla5ZndhPru6XKIK3B4DBPO1aIhJjMtulh0QTfYvPYrnXNW\nFIAgX4b3UwKBgFvbGSy55eP0UPfKMkBx37R5OdWeSlpHS5TDJQFipLaqCldJCMEB\nbTRKj7qMvaj90vD0Z4WwWZc/M1c8J9ouBIN3cLrxZ43hXNIS3sxZqrUxZIX0Wxj0\nmOA3LW1Q622wrpSsBFJfpwCZQY2W4SJbqkSc7EJ7mbnJZH385Swu0LZhAoGAI266\nUoKps2/92dObaf4LZ3qHpxSFnA4tQ6mPffX4FkVT07RJgO/2ZFUxPxXLZYrYzhfK\neR0hqtovmfJ7NpIxVTF1v2e/8Ra8dkhQl5Y5bLo6eV7I1iYYIm2Kk5wxPe06JMUx\niMM5fu2etESMHg67MzkA/OswITJa3RaRTlHQ630CgYEAvtEgSPN6+e2p/RQTgw7B\n8BoBrgaFL3cKQALYzwIrtFTbrgOAV8t2/NZENuCv5UETqSe1KZYfduar13E+OxFy\nee9OrRnHVSyV7x86mfg3HZJpj53k4CKroJlh0JtRqavfleaQXXe/OqiNmu0fiAva\nfsqMpiwtMcM8m7j06nX6gbU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "clousstoragecoe@pipeline-dataflow.iam.gserviceaccount.com",
+  "client_id": "118071605592099878130",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clousstoragecoe%40pipeline-dataflow.iam.gserviceaccount.com"
+}
