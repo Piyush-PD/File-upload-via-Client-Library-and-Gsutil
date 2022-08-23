@@ -1,8 +1,6 @@
-
-
-https://jbrojbrojbro.medium.com/5-ish-ways-to-get-your-data-into-cloud-storage-1ae628992e78
-https://medium.com/google-cloud/using-google-cloud-storage-5b9d3f570945
-https://learndataanalysis.org/source-code-using-google-cloud-storage-api-in-python-for-beginners/
+- https://jbrojbrojbro.medium.com/5-ish-ways-to-get-your-data-into-cloud-storage-1ae628992e78
+- https://medium.com/google-cloud/using-google-cloud-storage-5b9d3f570945
+- https://learndataanalysis.org/source-code-using-google-cloud-storage-api-in-python-for-beginners/
 
 Step 1 : Enable all the cloud storage api : Json and cloud storage
 
