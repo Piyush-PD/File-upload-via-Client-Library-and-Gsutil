@@ -16,6 +16,7 @@ GSUTIL
 - https://www.youtube.com/watch?v=kdRuDaDyyBo
 - https://stackoverflow.com/questions/47043441/what-should-i-do-about-this-gsutil-parallel-composite-upload-warning
 - https://cloud.google.com/storage/docs/parallel-composite-uploads
+- https://cloud.google.com/storage/docs/gsutil/addlhelp/GlobalCommandLineOptions <<-- for all the command line flags for the gustil
 
 
 If you have a large number of files to transfer, you can perform a parallel 
