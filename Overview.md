@@ -20,6 +20,9 @@ GSUTIL
 - https://cloud.google.com/blog/products/gcp/optimizing-your-cloud-storage-performance-google-cloud-performance-atlas <<-- for -m and 150M performance optimization 
 
 **If you have a large number of files to transfer, you can perform a parallel multi-threaded/multi-processing copy using the top-level gsutil -m option :** 
+
 gsutil -m cp -r dir gs://my-bucket #
+
 **for Bigger files use the below command, here 150M means it is dividing the file (lets say 2GB) into 150MB chunks and then uploading it to GCS**
+
 gsutil -o GSUtil:parallel_composite_upload_threshold=150M cp <FILENAME> gs://your-bucket
