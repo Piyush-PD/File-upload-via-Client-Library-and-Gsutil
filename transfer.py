@@ -6,7 +6,7 @@ from google.cloud import storage
 # os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'pipeline-dataflow-1309f9e8ff56.json'
 
 # or this 
-storage_client = storage.Client.from_service_account_json('pipeline-dataflow-1309f9e8ff56.json')
+storage_client = storage.Client.from_service_account_json('pipeline-dataflow-1309f9e8ff56.json') # Create your own service account key.
 
 # To check the existing bucket --> 
 pprint([bucket for bucket in storage_client.list_buckets()])
